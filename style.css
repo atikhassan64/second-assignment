@@ -1,0 +1,19 @@
+
+/* tailwindcss here */
+
+@import "tailwindcss";
+
+
+/* this is font family css */
+
+.inter{
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-optical-sizing: auto;
+}
+
+.noto-serif{
+  font-family: "Noto Serif", serif;
+  font-style: normal;
+  font-optical-sizing: auto;
+}
